@@ -1,4 +1,4 @@
-# pandas-challenge
+# Heroes-of-Pymoli-Purchase-Analysis
 Pandas assignment for class. Uses Python, Pandas, and Jupyter Notebook. 04/01/2021
 
 -------------------------------------------------------
